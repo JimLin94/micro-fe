@@ -1,0 +1,9 @@
+{
+  "name": "micro-fe",
+  "version": "1.0.0",
+  "description": "Micro-Frontend template",
+  "main": "index.js",
+  "repository": "https://github.com/JimLin94/micro-fe.git",
+  "author": "Jim",
+  "license": "MIT"
+}
